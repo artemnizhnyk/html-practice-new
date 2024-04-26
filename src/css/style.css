@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+ul li {
+    color: chocolate;
+}
+
+.second {
+    color: #ff00d2;
+}
+
+#first-li-el {
+    color: deepskyblue;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    text-align: right;
+    font-weight: 100;
+    font-style: italic;
+    /*text-decoration: underline;*/
+    text-decoration: line-through deepskyblue;
+    font-size: 40px;
+}
