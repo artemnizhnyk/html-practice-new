@@ -1,6 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+
 body {
     background-color: blueviolet;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 h1 {
@@ -35,6 +40,7 @@ h2 {
 /*----------------------------------------*/
 
 .box {
+    display: inline-block;
     width: 300px;
     height: 300px;
     background-color: crimson;
@@ -44,4 +50,27 @@ h2 {
     /*border-color: #f8022f;*/
     border: 10px solid #f8022f;
     margin: 40px 30px 50px 30px;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
+
+/*Block*/
+/*Inline*/
+/*Inline-block*/
+
+a {
+    padding: 20px;
+    margin: 50px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
 }
