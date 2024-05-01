@@ -41,15 +41,17 @@ h2 {
 
 .box {
     display: inline-block;
+    position: absolute;
     width: 300px;
     height: 300px;
-    background-color: crimson;
+    background-color: #14dc17;
     padding: 20px 40px 30px 50px;
     /*border-width: 10px;*/
     /*border-style: solid;*/
     /*border-color: #f8022f;*/
     border: 10px solid #f8022f;
     margin: 40px 30px 50px 30px;
+    z-index: 3;
 }
 
 .blue {
@@ -74,3 +76,32 @@ img {
     margin: 0 auto;
     width: 400px;
 }
+
+/*position*/
+/* static, relative, absolute, fixed */
+nav {
+    position: inherit;
+    /*left: 130px;*/
+    /*top: 100px;*/
+    /*right: 50px;*/
+    /*bottom: 10px;*/
+
+}
+
+.example {
+    position: relative;
+    background-color: #f8022f;
+    height: 700px;
+}
+
+.red {
+    position: absolute;
+    background-color: red;
+    left: 100px;
+    z-index: 4;
+}
+
+.example2 {
+    position: relative;
+}
+
