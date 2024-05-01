@@ -1,0 +1,28 @@
+div {
+    color: #00ff64;
+}
+
+.element {
+    color: red;
+}
+
+.wrapper .element {
+    color: deeppink;
+}
+
+.wrapper > .element {
+    color: purple;
+}
+
+.big {
+    color: black;
+}
+
+#second {
+    color: deepskyblue;
+}
+
+#second.element {
+    color: dimgrey;
+}
+
