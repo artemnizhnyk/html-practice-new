@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ed04be-3cc4-4fa0-974d-de248e304256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/any.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/fonts/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/icons/finish/finish_icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/icons/finish/finish_icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/icons/finish/finish_icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/icons/finish/finish_icon_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/icons/finish/finish_icon_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project#1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/any.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test#0/any.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/test#0/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/test#0/css/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/any.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test#0/img/any.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test#0/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -67,6 +89,11 @@
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\css" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\project#1\icons\finish" />
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\project#1\fonts" />
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\test#0" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,7 +108,7 @@
       <workItem from="1714131646348" duration="12290000" />
       <workItem from="1714205423298" duration="18000" />
       <workItem from="1714505469516" duration="1846000" />
-      <workItem from="1714551476132" duration="6056000" />
+      <workItem from="1714551476132" duration="7875000" />
     </task>
     <servers />
   </component>
