@@ -210,3 +210,36 @@
     text-align: center;
     color: #4a4a4a;
 }
+
+/*.waiting__images-item>img {*/
+/*    width: 100%;*/
+/*}*/
+
+/*------------------------------------------*/
+
+.optimisation {
+    width: 868px;
+    height: 502px;
+    background: url("../img/bg/woman_bg.jpg") center center/cover no-repeat;
+}
+
+.optimisation__inner {
+}
+
+.optimisation__woman-img {
+
+}
+
+.optimisation__title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+
+    line-height: 1;
+    text-transform: uppercase;
+    color: #299cbd;
+}
+
+.optimisation__text {
+
+}
