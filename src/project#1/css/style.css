@@ -243,3 +243,21 @@
 .optimisation__text {
 
 }
+
+/**/
+.my-flex-container {
+    display: flex;
+    /*flex-direction: column;*/
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 450px;
+}
+
+.my-flex-block {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    color: #ffffff;
+}
