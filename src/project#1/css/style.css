@@ -5,9 +5,10 @@
 }
 
 .container {
+    position: relative;
     width: 1140px;
     margin: 0 auto;
-    align-content: center;
+    /*align-content: center;*/
 }
 
 .promo {
@@ -148,7 +149,7 @@
 
 /*--------------------------*/
 .waiting {
-    height: 607px;
+    min-height: 607px;
     background-color: #EFEFEF;
 }
 
@@ -218,19 +219,22 @@
 /*------------------------------------------*/
 
 .optimisation {
-    width: 868px;
-    height: 502px;
-    background: url("../img/bg/woman_bg.jpg") center center/cover no-repeat;
+    min-height: 550px;
+    padding: 102px 0 107px 0;
 }
 
-.optimisation__inner {
-}
+/*.optimisation__inner {*/
+/*    display: flex;*/
+/*}*/
 
-.optimisation__woman-img {
-
-}
+/*.optimisation__description {*/
+/*    margin: 0 auto;*/
+/*    text-align: center;*/
+/*}*/
 
 .optimisation__title {
+    margin-left: 391px;
+
     font-family: "Roboto", sans-serif;
     font-weight: 900;
     font-size: 30px;
@@ -238,26 +242,29 @@
     line-height: 1;
     text-transform: uppercase;
     color: #299cbd;
+
+    margin-bottom: 15px;
 }
 
 .optimisation__text {
+    margin-left: 391px;
+    margin-top: 15px;
 
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+
+    line-height: 1.58824;
+    color: #4a4a4a;
 }
 
-/**/
-.my-flex-container {
-    display: flex;
-    /*flex-direction: column;*/
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-    height: 450px;
+.optimisation__text--bold {
+    font-weight: 700;
 }
 
-.my-flex-block {
-    width: 150px;
-    height: 150px;
-    background-color: red;
-    text-align: center;
-    color: #ffffff;
+.optimisation__img {
+    position: absolute;
+    top: -54px;
+    left: -240px;
+    z-index: -1;
 }
