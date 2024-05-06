@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ed04be-3cc4-4fa0-974d-de248e304256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test#1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test#1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test#2/sass/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/car.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/checkmark-blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/checkmark-blue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/checkmark-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/checkmark-red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon2.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon3.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon4.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon5.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon6.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon7.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon8.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/bg/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/bg/header-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/bg/world-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/bg/world-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test#2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/test#2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test#2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test#2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#2/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#2/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +95,7 @@
       <workItem from="1714721223218" duration="2050000" />
       <workItem from="1714851050477" duration="4978000" />
       <workItem from="1714914051627" duration="14720000" />
-      <workItem from="1714997570723" duration="4526000" />
+      <workItem from="1714997570723" duration="10143000" />
     </task>
     <servers />
   </component>
