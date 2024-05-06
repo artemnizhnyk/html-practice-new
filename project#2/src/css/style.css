@@ -39,10 +39,21 @@ nav {
 }
 
 .title {
+    font-weight: 700;
+    font-size: 38px;
+
+    text-transform: uppercase;
+    text-align: center;
+    color: #222;
+}
+
+.subtitle {
     font-weight: 400;
     font-size: 17px;
 
-    color: #1eacc7;
+    line-height: 21px;
+    text-align: center;
+    color: #222;
 }
 
 .button {
@@ -76,7 +87,7 @@ nav {
 }
 
 .menu__item {
-    border-right: 2px dotted  #000;
+    border-right: 2px dotted #000;
     padding-right: 28px;
 }
 
@@ -201,13 +212,6 @@ nav {
 
 .reasons__header {
     margin: 40px auto 0;
-
-    font-weight: 700;
-    font-size: 38px;
-
-    text-transform: uppercase;
-    text-align: center;
-    color: #222;
 }
 
 .reasons__block {
@@ -237,6 +241,11 @@ nav {
 }
 
 .reasons__title {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #1eacc7;
 }
 
 .reasons__description {
@@ -244,4 +253,22 @@ nav {
     font-size: 15px;
     color: #202020;
     line-height: 21px;
+}
+
+/*------------------------------*/
+
+.mobile {
+
+}
+
+.mobile__label {
+    margin: 46px auto 0;
+}
+
+.mobile__title {
+    margin: 40px auto 0;
+}
+
+.mobile__subtitle {
+    margin: 18px auto 0;
 }

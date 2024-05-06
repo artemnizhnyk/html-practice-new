@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ed04be-3cc4-4fa0-974d-de248e304256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project#2/src/img/bg/mobile-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project#2/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project#2/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/index.html" afterDir="false" />
@@ -48,7 +49,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new",
+    "last_opened_file_path": "C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/project#2/src",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,17 +65,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\css" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src\img\bg" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#3\src" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#3" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\project#3\icons" />
-      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\project#3\img\bg" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +97,7 @@
       <workItem from="1714721223218" duration="2050000" />
       <workItem from="1714851050477" duration="4978000" />
       <workItem from="1714914051627" duration="14720000" />
-      <workItem from="1714997570723" duration="10143000" />
+      <workItem from="1714997570723" duration="11459000" />
     </task>
     <servers />
   </component>
