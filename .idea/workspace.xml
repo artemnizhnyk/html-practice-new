@@ -5,9 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ed04be-3cc4-4fa0-974d-de248e304256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test#1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test#1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test#2/sass/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#3/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project#3/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project#3/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/car.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/checkmark-blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/checkmark-blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/checkmark-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/checkmark-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon2.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon3.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon4.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon5.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon6.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon7.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/icons/reasons/reason-icon8.png" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/icons/reasons/reason-icon8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/bg/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/bg/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/bg/world-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/bg/world-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/img/mobileapp/app6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/img/mobileapp/app6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#3/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test#2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/test#2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test#2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test#2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,30 +67,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/src&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.1734375&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.30936614&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.1734375",
+    "project.structure.side.proportion": "0.30936614",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\css" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\img" />
@@ -94,7 +122,7 @@
       <workItem from="1714721223218" duration="2050000" />
       <workItem from="1714851050477" duration="4978000" />
       <workItem from="1714914051627" duration="14720000" />
-      <workItem from="1714997570723" duration="1644000" />
+      <workItem from="1714997570723" duration="4526000" />
     </task>
     <servers />
   </component>

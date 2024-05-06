@@ -1,0 +1,39 @@
+/* line 8, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+h1 {
+  color: red;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 13, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 15, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 17, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+.block h3 {
+  color: purple;
+}
+
+/* line 19, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+.block__color {
+  background-color: #fff;
+}
+
+/* line 21, C:/Users/nizhn/OneDrive/Desktop/Front/html-practice-new/test#2/sass/style.sass */
+.block__color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
