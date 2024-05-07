@@ -272,7 +272,6 @@ nav {
 }
 
 .mobile__subtitle {
-    margin: 18px auto 0;
 }
 
 .mobile__card {
@@ -299,4 +298,15 @@ nav {
     text-transform: uppercase;
     text-align: center;
     color: #fff;
+}
+
+.mobile__card-plus {
+    position: absolute;
+    top: 225px;
+    left: 153px;
+    border-width: 7px;
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+    border-radius: 100%;
 }
