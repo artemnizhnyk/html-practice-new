@@ -309,4 +309,5 @@ nav {
     border-style: solid;
     background-color: black;
     border-radius: 100%;
+    cursor: pointer;
 }
