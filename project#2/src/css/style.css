@@ -311,3 +311,56 @@ nav {
     border-radius: 100%;
     cursor: pointer;
 }
+
+/*------------------------------*/
+
+.car {
+    position: relative;
+    padding-top: 56px;
+
+    min-height: 800px;
+    background-color: #070716;
+    z-index: -1;
+}
+
+.car__label {
+    margin: 0 auto;
+    background: #fff;
+    color: #070716;
+}
+
+.car__title {
+    margin: 27px auto 0;
+    color: #fff;
+}
+
+.car__subtitle {
+    color: #fff;
+}
+
+.car__img {
+    display: block;
+    margin: 54px auto 0;
+}
+
+.car:after {
+    content: "";
+    position: absolute;
+    background: url("../img/bg/car-bg.jpg");
+    height: 397px;
+    width: 100%;
+    z-index: -1;
+    top: 502px;
+}
+
+.car__under-text {
+    margin: 0 auto;
+
+    max-width: 327px;
+
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    color: #222;
+}
