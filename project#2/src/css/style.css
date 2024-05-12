@@ -349,7 +349,7 @@ nav {
     transition: 0.3s;
 }
 
-.mobile__card-plus:hover:before,:hover:after {
+.mobile__card-plus:hover:before, :hover:after {
     background-color: #d91313;
 }
 
@@ -362,6 +362,7 @@ nav {
     min-height: 800px;
     background-color: #070716;
     z-index: 5;
+    padding-bottom: 67px;
 }
 
 .car__label {
@@ -404,4 +405,77 @@ nav {
     line-height: 24px;
     text-align: center;
     color: #222;
+}
+
+/*------------------------------*/
+
+.demands {
+    padding: 68px 0 87px;
+}
+
+.demands__label {
+    margin: 68px auto 0;
+}
+
+.demands__title {
+    margin: 28px auto 0;
+}
+
+.demands__list-subtitle {
+    margin: 37px auto 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: #1ca8c3;
+}
+
+.demands__after-text {
+    margin: 25px auto 0 0;
+    width: 480px;
+
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+
+    color: #1ca8c3;
+}
+
+.demands__list-subtitle--red {
+    margin: 61px auto 0;
+    color: #ff5656;
+}
+
+.demands__list {
+    margin: 20px auto 0;
+    list-style: none;
+}
+
+.demands__list--red {
+    color: #ff5656;
+}
+
+.demands__list-element {
+    display: flex;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+
+    color: #222;
+    z-index: -1;
+}
+
+.demands__list-element:before {
+    content: "";
+    background: url("../icons/checkmark-blue.png") no-repeat;
+    width: 20px;
+    height: 20px;
+    z-index: 5;
+    margin-right: 10px;
+    padding-right: 22px;
+    display: block;
+}
+
+.demands__list--red > .demands__list-element:before {
+    content: url("../icons/checkmark-red.png");
 }
