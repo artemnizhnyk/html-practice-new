@@ -73,6 +73,16 @@ nav {
 
     box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12);
     background: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: linear-gradient(to top, #79d8ea 0%, #089ab4 100%);
+}
+
+.button:active {
+    transform: scale(108%);
 }
 
 /*------------------------------*/
@@ -301,15 +311,46 @@ nav {
 }
 
 .mobile__card-plus {
+    display: flex;
     position: absolute;
-    top: 225px;
-    left: 153px;
-    border-width: 7px;
-    border-color: black;
-    border-style: solid;
+    justify-content: center;
+    align-items: center;
+    width: 26px;
+    height: 26px;
+    bottom: 35px;
+    left: 50%;
+    transform: translateX(-50%);
     background-color: black;
     border-radius: 100%;
     cursor: pointer;
+}
+
+.mobile__card-plus:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 14px;
+    height: 2px;
+    background-color: #1eacc7;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: 0.3s;
+}
+
+.mobile__card-plus:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 2px;
+    height: 14px;
+    background-color: #1eacc7;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: 0.3s;
+}
+
+.mobile__card-plus:hover:before,:hover:after {
+    background-color: #d91313;
 }
 
 /*------------------------------*/
@@ -320,7 +361,7 @@ nav {
 
     min-height: 800px;
     background-color: #070716;
-    z-index: -1;
+    z-index: 5;
 }
 
 .car__label {
