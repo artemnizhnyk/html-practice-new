@@ -1,0 +1,8 @@
+@media (width<1200px) {
+    .menu__item {
+        padding-right: 20px;
+    }
+    .menu__link {
+        font-size: 13px;
+    }
+}

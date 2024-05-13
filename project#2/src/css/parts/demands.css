@@ -11,7 +11,7 @@
 }
 
 .demands__list-subtitle {
-    margin: 37px auto 0;
+    margin: 37px 0 0 55px;
 
     font-weight: 400;
     font-size: 22px;
@@ -20,7 +20,7 @@
 }
 
 .demands__after-text {
-    margin: 25px auto 0 0;
+    margin: 25px 0 0 55px;
     width: 480px;
 
     font-weight: 300;
@@ -31,7 +31,7 @@
 }
 
 .demands__list-subtitle--red {
-    margin: 61px auto 0;
+    margin: 61px 0 0 55px;
     color: #ff5656;
 }
 
