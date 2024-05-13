@@ -1,0 +1,82 @@
+.demands {
+    padding: 68px 0 87px;
+}
+
+.demands__label {
+    margin: 68px auto 0;
+}
+
+.demands__title {
+    margin: 28px auto 0;
+}
+
+.demands__list-subtitle {
+    margin: 37px auto 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: #1ca8c3;
+}
+
+.demands__after-text {
+    margin: 25px auto 0 0;
+    width: 480px;
+
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+
+    color: #1ca8c3;
+}
+
+.demands__list-subtitle--red {
+    margin: 61px auto 0;
+    color: #ff5656;
+}
+
+.demands__list {
+    margin: 20px auto 0;
+    list-style: none;
+    width: 549px;
+}
+
+.demands__list--red {
+    color: #ff5656;
+}
+
+.demands__list-element {
+    display: flex;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+
+    color: #222;
+    z-index: -1;
+}
+
+.demands__list-element:before {
+    content: "";
+    display: block;
+    background: url("../../icons/checkmark-blue.png") no-repeat;
+    width: 21px;
+    height: 20px;
+
+    z-index: 5;
+    margin-right: 10px;
+    padding-right: 22px;
+    margin-top: 4px;
+}
+
+.demands__list--red > .demands__list-element:before {
+    content: "";
+    display: block;
+    background: url("../../icons/checkmark-red.png") no-repeat;
+    width: 21px;
+    height: 20px;
+
+    z-index: 5;
+    margin-right: 10px;
+    padding-right: 22px;
+    margin-top: 4px;
+}

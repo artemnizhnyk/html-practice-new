@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 70px;
+
+    list-style-type: none;
+    margin: 0;
+}
+
+.menu__item {
+    border-right: 2px dotted #000;
+    padding-right: 28px;
+}
+
+.menu__item:last-child {
+    border-right: none;
+    padding-right: 0;
+}
+
+.menu__link {
+    font-weight: 300;
+    font-size: 15px;
+
+    line-height: 15px;
+    color: #fff;
+    text-decoration: none;
+}

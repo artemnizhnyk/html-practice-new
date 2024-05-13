@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ed04be-3cc4-4fa0-974d-de248e304256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test#4/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test#4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/car.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/demands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/promo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/reasons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/subheader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project#2/src/css/world.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project#2/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project#2/src/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +79,11 @@
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\src\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src\css\parts" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src\icons" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src\icons\social" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#2\src\img\bg" />
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#3\src" />
-      <recent name="C:\Users\nizhn\OneDrive\Desktop\Front\html-practice-new\project#3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +108,8 @@
       <workItem from="1715112049597" duration="1482000" />
       <workItem from="1715154756206" duration="96000" />
       <workItem from="1715460004353" duration="1435000" />
-      <workItem from="1715505859265" duration="16610000" />
+      <workItem from="1715505859265" duration="18151000" />
+      <workItem from="1715622154909" duration="1381000" />
     </task>
     <servers />
   </component>

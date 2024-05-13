@@ -1,0 +1,42 @@
+.world {
+    position: relative;
+    padding: 48px 0 21px;
+    background: url("../../img/bg/world-bg.jpg");
+    min-height: 717px;
+}
+
+
+.world__label {
+    margin: 0 auto 0;
+    background-color: #fff;
+    color: #070716;
+}
+
+.world__title {
+    margin: 26px auto 0;
+    color: #fff;
+}
+
+.world__subtitle {
+    margin: 2px auto 0;
+    color: #fff;
+}
+
+.world__cities-link {
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 21px;
+
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 68px;
+    text-transform: uppercase;
+    color: #1fbad6;
+}
+
+.world__cities-link:active {
+    color: #3d44e8;
+}

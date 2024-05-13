@@ -1,0 +1,85 @@
+.mobile {
+    min-height: 864px;
+    background: url("../../img/bg/mobile-bg.jpg");
+    padding: 46px 0 80px;
+}
+
+.mobile__label {
+    margin: 0 auto 0;
+}
+
+.mobile__title {
+    margin: 40px auto 0;
+}
+
+.mobile__subtitle {
+}
+
+.mobile__card {
+    position: relative;
+    margin: 20px auto 0;
+
+    width: 320px;
+    height: 280px;
+}
+
+.mobile__card-img {
+    padding-top: 10px
+}
+
+.mobile__card-text {
+    display: block;
+    position: absolute;
+    min-width: 320px;
+    top: 84px;
+    font-weight: 400;
+    font-size: 24px;
+
+    line-height: 31px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+
+.mobile__card-plus {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 26px;
+    height: 26px;
+    bottom: 35px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: black;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.mobile__card-plus:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 14px;
+    height: 2px;
+    background-color: #1eacc7;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: 0.3s;
+}
+
+.mobile__card-plus:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 2px;
+    height: 14px;
+    background-color: #1eacc7;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: 0.3s;
+}
+
+.mobile__card-plus:hover:before, :hover:after {
+    background-color: #d91313;
+}
