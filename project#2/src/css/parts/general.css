@@ -2,6 +2,10 @@
     font-family: "Roboto", sans-serif;
 }
 
+html {
+     overflow-x: hidden;
+}
+
 nav {
     height: 50px;
     background-color: #212121;
