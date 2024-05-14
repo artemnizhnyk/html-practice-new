@@ -15,7 +15,7 @@
         padding: 13px 0;
     }
     .menu__item {
-        padding: 0 5px;
+        padding: 0 15px;
     }
 
     /*.reasons__block {*/
@@ -29,6 +29,22 @@
     .reasons__text {
         transform: scale(90%);
 
+    }
+
+    .mobile__card-text {
+
+    }
+
+    .mobile__card {
+        transform: scale(80%);
+    }
+
+    .footer__social-media {
+        margin-right: 80px;
+    }
+
+    .footer__app-img {
+        transform: scale(75%);
     }
 
 }
