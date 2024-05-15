@@ -1,0 +1,23 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.box {
+    display: inline-block;
+    background-color: purple;
+    width: 150px;
+    /*height: 200px;*/
+    border: 5px solid blue;
+}
+
+.margin {
+    margin: 30px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+/*--------------------*/
